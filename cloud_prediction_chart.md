@@ -4,6 +4,8 @@ Cloud cover prediction chart with highlighted periods when the sun is shining on
 
 The chart shows the cloud cover forecast from met.no and OpenWeatherMap.
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](cloud_prediction_chart.png)
+
 ```yaml
 type: custom:apexcharts-card
 grid_options:
